@@ -1,0 +1,13 @@
+states
+x,y,z
+alphabet
+a,b
+transitions
+y,b,z
+x,b,z
+x,a,y
+y,a,y
+initial
+x
+final
+z
